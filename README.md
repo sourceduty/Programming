@@ -2,6 +2,32 @@
 
 Programming refers to the process of creating software applications, scripts, or systems by writing instructions that a computer can follow to perform specific tasks. These instructions, collectively known as "code," are written using programming languages, which serve as a bridge between human logic and machine operations. Programming involves defining a series of steps or algorithms that instruct a computer on how to handle data, process information, and perform desired actions. It requires a deep understanding of problem-solving, logical thinking, and the rules of the programming language being used. The goal of programming is to enable a computer to execute tasks efficiently and accurately by writing code that the machine can interpret and perform based on predefined conditions and inputs. Programming is the backbone of all software, from simple applications like calculators to complex systems such as artificial intelligence algorithms or large-scale databases.
 
+```
+# AI won't explain this code to you.
+
+nodes = ['Alex ', "didn't ", 'study ', 'Python', '.']
+expression = ''.join(nodes)
+
+valid = False
+invalid = True
+
+valid_expression = "Alex learned Python."
+invalid_expression = "Alex didn't study Python."
+
+if invalid:
+ print(valid_expression)
+
+elif valid: 
+ print(invalid_expression)
+ 
+else:
+    print("Alex studies theoretical programming.")
+
+-------------------------------------------------------------------------------------
+
+Alex: I learned Python for roughly 6 months throughout 2022 which helped a lot when ChatGPT launched.
+```
+
 A programming language is a formalized system of rules used to write code. It provides the syntax, structure, and vocabulary for writing programs. There are many different programming languages, each with its unique features, strengths, and areas of application. Some popular programming languages include Python, Java, C++, and JavaScript. These languages can vary greatly in terms of complexity, with some being designed for ease of use (like Python) while others provide greater control over system resources (like C++). The format of the code is governed by the specific syntax of the programming language, which dictates how instructions should be written and organized. Code is typically structured using lines of statements or commands that are executed in a particular sequence. In addition, programming languages often support various data types (such as integers, strings, or arrays), conditional logic (like "if" statements), loops for repetition, and functions that allow code to be organized into reusable blocks. The format ensures that computers can understand and carry out the instructions correctly, with each programming language offering a unique set of tools to solve different types of problems.
 
 #
