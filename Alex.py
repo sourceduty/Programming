@@ -18,6 +18,4 @@ elif valid:
 else:
     print("Alex studies theoretical programming.")
 
--------------------------------------------------------------------------------------
-
-Alex: I learned Python for roughly 6 months throughout 2022 which helped a lot when ChatGPT launched.
+# Alex: I learned Python for roughly 6 months throughout 2022 which helped a lot when ChatGPT launched.
