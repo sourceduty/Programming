@@ -1,0 +1,48 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    width: 100vw;
+    height: 100vh;
+    gap: 0;
+}
+
+.square {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgba(255, 255, 255, 0.2);
+    font-size: 1.5rem;
+    text-align: center;
+    transition: color 0.3s;
+}
+
+#square1 {
+    background-color: #ff6666; /* Red */
+}
+
+#square2 {
+    background-color: #66b3ff; /* Blue */
+}
+
+#square3 {
+    background-color: #99ff99; /* Green */
+}
+
+#square4 {
+    background-color: #ffcc66; /* Yellow */
+}
+
+.square:hover {
+    color: rgba(255, 255, 255, 1);
+}

@@ -1,0 +1,35 @@
++--------------------------------------------------+
+|                  Application Layer               |
+|  (High-level modules, UI, Business Logic)       |
++--------------------------------------------------+
+        |               |               |
+        v               v               v
++----------------+  +----------------+  +----------------+
+|  Service A     |  |  Service B     |  |  Service C     |
+| (Encapsulated  |  | (Encapsulated  |  | (Encapsulated  |
+|  Logic)        |  |  Logic)        |  |  Logic)        |
++----------------+  +----------------+  +----------------+
+        |               |               |
+        v               v               v
++--------------------------------------------------+
+|               Middleware Layer                  |
+|  (Inter-process communication, Data Handling)   |
++--------------------------------------------------+
+        |               |               |
+        v               v               v
++--------------------------------------------------+
+|                Core Framework Layer             |
+|  (Memory Mgmt, Threading, Resource Mgmt)        |
++--------------------------------------------------+
+        |               |               |
+        v               v               v
++--------------------------------------------------+
+|           Platform Abstraction Layer            |
+|  (OS APIs, Hardware Access, Standard Libraries) |
++--------------------------------------------------+
+        |               |               |
+        v               v               v
++--------------------------------------------------+
+|                  Hardware Layer                 |
+|  (CPU, GPU, Storage, Network, Peripherals)      |
++--------------------------------------------------+

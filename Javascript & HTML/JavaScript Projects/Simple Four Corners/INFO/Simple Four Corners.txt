@@ -1,0 +1,9 @@
+Simple Four Corners
+
+An interactive graphical user interface (GUI) divided into four equal sections.
+
+This program creates an interactive graphical user interface (GUI) divided into four equal sections, each of which contains a heading and descriptive text. The interface is designed using HTML for structure, CSS for styling, and minimal JavaScript to enhance user experience, although in this case, the functionality is achieved purely through CSS. Each section or "square" is color-coded differently—red, blue, green, and yellow—to provide visual distinction and enhance the overall aesthetics of the interface.
+
+The key feature of this program is the hover effect applied to each square. Initially, the text within each section is faded, appearing in a subtle, semi-transparent color that blends into the background. When a user hovers over a section, the text becomes fully opaque, making it clearly readable. This effect not only improves the visual appeal but also engages users by encouraging interaction with the different sections. The use of CSS transitions ensures that the color change happens smoothly, providing a polished and professional feel to the interface.
+
+The content within each square includes a heading and a paragraph of example text. This setup is ideal for applications that need to present categorized information in a compact, visually organized manner, such as a dashboard, a feature overview, or an informational panel. The design is responsive, filling the entire viewport regardless of screen size, which makes it versatile for use on various devices, from desktops to mobile phones. This approach combines simplicity and functionality, demonstrating how basic web technologies can create engaging and user-friendly interfaces.

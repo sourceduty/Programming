@@ -1,0 +1,29 @@
+Nested Framework
+│
+├── High-Level Abstraction
+│   │
+│   ├── Application Layer
+│       ├── Interfaces
+│       ├── APIs
+│       ├── High-Level Logic
+│
+├── Intermediate Abstraction
+│   │
+│   ├── Middleware & Service Layer
+│       ├── Data Processing
+│       ├── Business Logic
+│       ├── Inter-Service Communication
+│
+├── Low-Level Abstraction
+│   │
+│   ├── Core Engine Layer
+│       ├── Algorithms
+│       ├── Computation
+│       ├── Optimization
+│
+└── System Abstraction
+    │
+    ├── Hardware & System Layer
+        ├── Memory Management
+        ├── I/O Operations
+        ├── Hardware Interactions

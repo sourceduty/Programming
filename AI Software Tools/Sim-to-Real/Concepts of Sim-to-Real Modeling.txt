@@ -1,0 +1,21 @@
+Concepts of Sim-to-Real Modeling:
+
+Reality Gap – The difference between simulated and real-world environments that must be minimized for effective transfer.
+
+Domain Randomization – Training models on diverse simulated variations to improve generalization.
+
+Domain Adaptation – Using techniques like adversarial learning to align simulated and real-world distributions.
+
+Invariant Feature Learning – Extracting high-level features that remain consistent across domains.
+
+Causal Inference – Learning fundamental cause-effect relationships rather than correlations.
+
+Meta-Learning – Training models to adapt quickly to real-world data.
+
+Self-Supervised Learning – Using unlabelled data to improve real-world generalization.
+
+Probabilistic Modeling – Estimating uncertainties in simulation-to-reality transfer.
+
+Structural Risk Minimization – Ensuring robustness by learning fundamental task principles.
+
+Bayesian Learning – Updating models with real-world observations for continuous improvement.

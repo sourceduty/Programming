@@ -1,0 +1,25 @@
+Nested Framework Topology
+-------------------------
+[ Root Module ]
+      │
+      ├── [ Core Layer ]
+      │      ├── [ Module A ]
+      │      │      ├── [ Submodule A1 ]
+      │      │      ├── [ Submodule A2 ]
+      │      │
+      │      ├── [ Module B ]
+      │             ├── [ Submodule B1 ]
+      │             ├── [ Submodule B2 ]
+      │
+      ├── [ Middleware Layer ]
+      │      ├── [ Middleware A ]
+      │      ├── [ Middleware B ]
+      │
+      ├── [ Application Layer ]
+      │      ├── [ Feature X ]
+      │      ├── [ Feature Y ]
+      │
+      ├── [ Utilities ]
+             ├── [ Logger ]
+             ├── [ Config Manager ]
+             ├── [ Caching ]

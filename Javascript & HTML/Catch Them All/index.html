@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Catch The Pokémon</title>
+</head>
+<body>
+  <div class="screen">
+    <h1>Catch The Pokémon</h1>
+    <button class="btn" id="start-btn">Play Game</button>
+  </div>
+
+  <div class="screen">
+    <h1>What is your "favorite" Pokémon?</h1>
+    <ul class="pokemon-list">
+      <li>
+        <button class="choose-pokemon-btn">
+          <p>Mewtwo</p>
+          <img src="Mewtwo.png" alt="Mewtwo">
+        </button>
+      </li>
+      <li>
+        <button class="choose-pokemon-btn">
+          <p>Pikachu</p>
+          <img src="Pikachu.png" alt="Pikachu">
+        </button>
+      </li>
+      <li>
+        <button class="choose-pokemon-btn">
+          <p>Charizard</p>
+          <img src="Charizard.png" alt="Charizard">
+        </button>
+      </li>
+      <li>
+        <button class="choose-pokemon-btn">
+          <p>Jigglypuff</p>
+          <img src="Jigglypuff.png" alt="Jigglypuff">
+        </button>
+      </li>
+      <li>
+        <button class="choose-pokemon-btn">
+          <p>Venusaur</p>
+          <img src="Venusaur.png" alt="Venusaur">
+        </button>
+      </li>
+    </ul>
+  </div>
+
+  <div class="screen game-container" id="game-container">
+    <h3 id="time" class="time">Time: 00:00</h3>
+    <h3 id="score" class="score">Score: 0</h3>
+    <h5 id="message" class="message">
+      Are you annoyed yet? <br>
+      You are playing an impossible game!!
+    </h5>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
