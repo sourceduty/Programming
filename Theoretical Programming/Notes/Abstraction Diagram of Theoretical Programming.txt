@@ -1,0 +1,78 @@
+Theoretical Programming
+│
+├── Language Design
+│   ├── Syntax
+│   │   ├── Lexical Structure
+│   │   ├── Grammar (CFG, PEG)
+│   │   ├── Parsing Techniques
+│   │   └── Abstract Syntax Trees (ASTs)
+│   ├── Semantics
+│   │   ├── Operational Semantics
+│   │   ├── Denotational Semantics
+│   │   ├── Axiomatic Semantics
+│   │   └── Type Systems
+│   ├── Paradigms
+│   │   ├── Functional
+│   │   ├── Imperative
+│   │   ├── Declarative
+│   │   ├── Logical
+│   │   └── Esoteric
+│   └── Compilation Pipeline
+│       ├── Tokenization
+│       ├── Parsing
+│       ├── Semantic Analysis
+│       ├── Intermediate Representation (IR)
+│       ├── Optimization
+│       ├── Code Generation
+│       └── Linking & Execution
+│
+├── Computational Models
+│   ├── Lambda Calculus
+│   ├── Turing Machines
+│   ├── Automata Theory
+│   ├── Category Theory
+│   └── Constraint Logic Programming
+│
+├── Type Theory & Formal Verification
+│   ├── Type Systems
+│   │   ├── Static vs Dynamic
+│   │   ├── Hindley-Milner
+│   │   ├── Dependent Types
+│   │   ├── Subtyping
+│   │   ├── Linear Types
+│   │   ├── Effect Systems
+│   │   └── Gradual Typing
+│   ├── Proof Assistants
+│   │   ├── Coq
+│   │   ├── Agda
+│   │   ├── Lean
+│   │   └── Isabelle
+│   └── Formal Methods
+│       ├── Hoare Logic
+│       ├── Model Checking
+│       ├── Abstract Interpretation
+│       └── Program Synthesis
+│
+└── Compiler & Interpreter Design
+    ├── Just-In-Time Compilation (JIT)
+    ├── Ahead-Of-Time Compilation (AOT)
+    ├── Virtual Machines
+    │   ├── Register-based VM
+    │   ├── Stack-based VM
+    │   ├── Bytecode Interpreters
+    │   ├── LLVM-based Backends
+    │   └── JIT Optimizations
+    ├── Garbage Collection
+    │   ├── Reference Counting
+    │   ├── Mark-and-Sweep
+    │   ├── Generational GC
+    │   └── Region-Based Memory Management
+    ├── Multi-language Interoperability
+    │   ├── Foreign Function Interfaces (FFI)
+    │   ├── Intermediate Representations (e.g., WASM)
+    │   └── Polyglot Programming
+    └── Domain-Specific Languages (DSLs)
+        ├── Embedded DSLs
+        ├── External DSLs
+        ├── Meta-programming
+        └── Code Generation Strategies

@@ -1,0 +1,23 @@
+Power-Time Logging (PTL) Process
+└── Main Program
+    ├── Initialization
+    │   ├── Load Config
+    │   ├── Set Logging Params
+    ├── Data Collection
+    │   ├── Capture Power Metrics
+    │   ├── Timestamp Events
+    ├── Data Processing
+    │   ├── Filter & Analyze
+    │   ├── Aggregate Results
+    ├── Data Storage
+    │   ├── Save to File (CSV, JSON)
+    │   ├── Rotate Logs
+    ├── Reporting
+    │   ├── Generate Logs
+    │   ├── Export Data
+    ├── Error Handling
+    │   ├── Log Errors
+    │   ├── Handle Exceptions
+    └── Shutdown
+        ├── Close Files
+        ├── Cleanup Resources

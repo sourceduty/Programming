@@ -1,0 +1,17 @@
+Example: Energy Calculation Using Integration
+
+Scenario:
+
+A device's power usage varies over time and is given by the function P(t) = 5t + 20 (W), where t is in hours. Calculate the total energy consumed from t = 0 to t = 4 hours.
+
+Formula:
+
+E = ∫ P(t) dt
+E = ∫ (5t + 20) dt from 0 to 4
+
+Calculation:
+
+E = [(5/2)t² + 20t] from 0 to 4
+E = [(5/2)(4)² + 20(4)] - [(5/2)(0)² + 20(0)]
+E = [40 + 80] - [0]
+E = 120 Wh
