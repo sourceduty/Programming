@@ -1,0 +1,38 @@
+layer_animation 
+
+Function Overview
+
+The layer_animation function animates the layers created by the layers function, allowing for dynamic visualization of changes over time. This can be useful for visualizing time-series data, evolving distributions, or any dataset where changes over time or steps are meaningful.
+
+Function Signature
+
+def layer_animation(layers_data, frames, interval=200, repeat=True, axes=None, save_path=None, **kwargs):
+    """
+    Animate multiple plots or graphical elements over time on a single figure.
+    """
+Parameters
+
+layers_data (list of dicts): 
+    A list of dictionaries, each representing a layer. Each dictionary includes:
+    
+    - type (str): The plot type ("line", "scatter", "bar", etc.).
+    - data (list of dicts): A list where each element contains x and y keys with data for that frame.
+    - kwargs (dict, optional): Additional arguments specific to the plot type (e.g., color, label).
+
+frames (int or list): 
+    The number of frames in the animation or a list of frame indices.
+
+interval (int, optional): 
+    Delay between frames in milliseconds. Default is 200.
+
+repeat (bool, optional): 
+    Whether to repeat the animation when it reaches the end. Default is True.
+
+axes (matplotlib.axes.Axes, optional): 
+    The plotting area for the animation. Creates a new axes if None.
+
+save_path (str, optional): 
+    Path to save the animation as a video or gif file. If None, the animation is not saved.
+
+**kwargs: 
+    Additional global customization arguments for the plot (e.g., title, xlabel, ylabel).
