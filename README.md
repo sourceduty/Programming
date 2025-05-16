@@ -56,3 +56,5 @@ else:
 [Programming Language Writer](https://chatgpt.com/g/g-sl0v3JhDZ-programming-language-writer)
 <br>
 [Python Programs](https://github.com/sourceduty/Python_Programs)
+<br>
+[Theoretical Format](https://chatgpt.com/g/g-67fece86ae5081919eb4cdd4b8e1fa96-theoretical-format)
