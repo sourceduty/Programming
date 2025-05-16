@@ -1,0 +1,33 @@
+Archcraft_Apps
+
+📑 Recommended apps for Archcraft-2023.01.
+
+Install and keep these apps in Archcraft.
+
+Screenshots with ksnip: 
+sudo pacman -S ksnip
+
+VLC: sudo pacman -S vlc
+
+Python IDE:
+
+sudo pacman -S spyder
+
+Spreadsheets: 
+
+sudo pacman -S gnumeric
+
+3D model slicer:
+
+sudo pacman -S prusa-slicer
+
+Mindmapping:
+
+sudo pacman -S minder
+
+Arduino IDE:
+
+sudo pacman -S arduino
+
+
+[Complete Archcraft App List](https://wiki.archlinux.org/title/list_of_applications#Architecture)

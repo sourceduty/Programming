@@ -1,0 +1,24 @@
+Run: 
+
+sudo pacman -Syyu
+
+and
+
+sudo pacman -Syu --overwrite '*'
+
+
+Keys:
+
+sudo pacman -S archlinux-keyring
+
+and 
+
+sudo pacman -Syu upgrade
+
+
+installing python libraries: 
+
+sudo pacman -S python-library
+
+
+
