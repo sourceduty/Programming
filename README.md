@@ -118,8 +118,12 @@ An AI terminal program is a type of software designed to operate within a termin
 <br>
 [Programming Language Writer](https://chatgpt.com/g/g-sl0v3JhDZ-programming-language-writer)
 <br>
+[Homelab Interface](https://chatgpt.com/g/g-682c30980c7481918170b5a18a3ef72a-homelab-interface)
+<br>
 [Python Programs](https://github.com/sourceduty/Python_Programs)
 <br>
 [Theoretical Format](https://chatgpt.com/g/g-67fece86ae5081919eb4cdd4b8e1fa96-theoretical-format)
+<br>
+[Science OS](https://chatgpt.com/g/g-682d22f294908191acbb92cd55a1acba-science-os)
 <br>
 [Terminal Dashboard](https://chatgpt.com/g/g-682a4bf6e7ac8191a6c8e72ba04151eb-terminal-dashboard)
