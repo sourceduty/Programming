@@ -1,0 +1,23 @@
+Level 0: No Autonomy
+
+At Level 0, the robot or system has no autonomous capabilities whatsoever. It operates entirely under direct human control at all times. The operator must manually input commands to initiate any action, maintain constant supervision over its operation, and intervene as needed to correct errors or handle unexpected situations. There is no onboard decision-making capability for adapting to changing conditions autonomously.
+
+Level 1: Basic Automation
+
+At Level 1, the robot gains some basic autonomous capabilities but still requires significant human oversight. It can execute preprogrammed tasks without direct manual control once initiated by a human operator. However, it lacks any ability to adapt its behavior based on real-time sensor data or environmental changes. The system may have limited onboard intelligence for simple decision-making in well-defined scenarios, such as selecting the next step in a predefined sequence of actions. But overall, Level 1 robots still heavily rely on human intervention and supervision.
+
+Level 2: Conditional Automation
+
+In this level, the robot exhibits more advanced autonomous capabilities by being able to make decisions based on real-time sensor data within certain preprogrammed conditions or constraints. It can autonomously adapt its behavior in response to changes in its environment up to a predefined limit without human intervention. For example, it may be able to navigate an obstacle course while avoiding collisions with objects but still requires manual control for tasks outside of this defined domain. Level 2 robots have some degree of onboard intelligence and decision-making capability within their programmed constraints.
+
+Level 3: High Automation
+
+At Level 3, the robot gains significant autonomy by being able to make decisions based on real-time sensor data without human intervention in most situations. It can autonomously adapt its behavior across a wide range of scenarios while still requiring occasional supervision and manual control for complex or unpredictable tasks outside of its programmed domain. The system may have advanced onboard intelligence, including machine learning capabilities, to enable it to learn from experience and improve its performance over time within the limits of its programming.
+
+Level 4: Full Automation
+
+In this level, the robot exhibits near-complete autonomy by being able to make decisions based on real-time sensor data without human intervention in almost all situations. It can autonomously adapt its behavior across a wide range of complex and unpredictable scenarios with minimal supervision or manual control required from humans except for rare cases outside of its programmed domain. The system may have advanced onboard intelligence, including deep learning capabilities, to enable it to learn from experience and improve its performance over time without human intervention in most situations.
+
+Level 5: Super Autonomy
+
+At Level 5, the robot exhibits complete autonomy by being able to make decisions based on real-time sensor data without any need for human supervision or control whatsoever. It can autonomously adapt its behavior across a wide range of complex and unpredictable scenarios with no limitations imposed by programming constraints. The system may have advanced onboard intelligence, including artificial general intelligence (AGI), that enables it to learn from experience and improve its performance over time in an unsupervised manner without any need for human intervention or oversight whatsoever.
