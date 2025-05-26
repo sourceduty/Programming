@@ -1,4 +1,4 @@
-![Codes](https://github.com/user-attachments/assets/de3ccd89-0927-43bc-954a-b82102640b00)
+![Dashboard](https://github.com/user-attachments/assets/5b90ce17-d069-4537-bf79-3244b938a145)
 
 Programming refers to the process of creating software applications, scripts, or systems by writing instructions that a computer can follow to perform specific tasks. These instructions, collectively known as "code," are written using programming languages, which serve as a bridge between human logic and machine operations. Programming involves defining a series of steps or algorithms that instruct a computer on how to handle data, process information, and perform desired actions. It requires a deep understanding of problem-solving, logical thinking, and the rules of the programming language being used. The goal of programming is to enable a computer to execute tasks efficiently and accurately by writing code that the machine can interpret and perform based on predefined conditions and inputs. Programming is the backbone of all software, from simple applications like calculators to complex systems such as artificial intelligence algorithms or large-scale databases.
 
