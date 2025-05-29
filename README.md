@@ -6,12 +6,6 @@ A programming language is a formalized system of rules used to write code. It pr
 
 #
 
-![Public Domain](https://github.com/user-attachments/assets/0c1fee02-3a53-4ada-9fea-3a73b4fef937)
-
-There are notable examples of programming languages and software that are in the public domain due to expired copyrights or deliberate release by their creators. Early languages like ALGOL, FORTRAN, and LISP, whose foundational concepts and initial implementations are now free to use without legal restrictions. Legacy systems such as CP/M and MS-DOS 1.0 and 2.0 have also been partially or fully released into the public domain, offering historical value and educational utility. Additionally, early tools like TECO and Tiny BASIC represent a class of software that contributed significantly to early computing and remain accessible for experimentation and preservation. Understanding which components are in the public domain enables developers, historians, and educators to explore and reuse foundational technologies without licensing concerns.
-
-#
-
 ![OS Developer](https://github.com/user-attachments/assets/a53f8643-1373-4502-b9a0-e004f6432bbc)
 
 [OS Developer](https://chatgpt.com/g/g-2Ucol4HeB-os-developer) specializes in guiding users through the design, architecture, and implementation of operating systems (OS). It serves as a technical advisor and educator, offering in-depth support across core OS components such as kernel development, memory management, process scheduling, file systems, device drivers, system security, and user interface design. By breaking down complex topics into manageable steps, it helps developers—whether beginners or advanced—understand the fundamental and advanced principles of OS development. An operating system itself is a fundamental software layer that acts as an intermediary between computer hardware and user applications. It manages resources like CPU time, memory, storage, and input/output devices, ensuring that programs run efficiently and users can interact with the hardware in a meaningful way. This GPT provides tailored, professional guidance based on best industry practices, helping users build robust and efficient systems, debug problems, optimize performance, and document their projects effectively.
@@ -76,6 +70,11 @@ An AI terminal program is a type of software designed to operate within a termin
 
 [PyPi Studio](https://chatgpt.com/g/g-682fb476dd048191800bdbc557bd7e9a-pypi-studio) was made to assist users in navigating and managing Python libraries and packages on the PyPi platform, making it an essential tool for developers working with Python packages. It offers a range of features, including the ability to search for specific packages using keywords, retrieve detailed metadata about a particular library, explore the available versions of packages, and obtain information about release notes, dependencies, and file types for specific versions. PyPi Studio can also help users explore the latest versions of libraries, check package compatibility, manage PyPi accounts, and even assist with uploading packages. For those who need to manage user credentials or track the popularity and download statistics of Python libraries, this GPT is equipped with functionalities to handle those tasks too. By providing precise, version-specific package information, PyPi Studio ensures that users get the right details to support their development work, whether they are investigating the latest releases, managing dependencies, or dealing with package updates. Whether you’re a developer looking to optimize your workflow or a user trying to navigate the expansive PyPi ecosystem, PyPi Studio serves as a comprehensive tool for every aspect of Python package management.
 
+#
+
+![Public Domain](https://github.com/user-attachments/assets/0c1fee02-3a53-4ada-9fea-3a73b4fef937)
+
+There are notable examples of programming languages and software that are in the public domain due to expired copyrights or deliberate release by their creators. Early languages like ALGOL, FORTRAN, and LISP, whose foundational concepts and initial implementations are now free to use without legal restrictions. Legacy systems such as CP/M and MS-DOS 1.0 and 2.0 have also been partially or fully released into the public domain, offering historical value and educational utility. Additionally, early tools like TECO and Tiny BASIC represent a class of software that contributed significantly to early computing and remain accessible for experimentation and preservation. Understanding which components are in the public domain enables developers, historians, and educators to explore and reuse foundational technologies without licensing concerns.
 
 #
 
