@@ -6,6 +6,27 @@ A programming language is a formalized system of rules used to write code. It pr
 
 #
 
+![Public Domain](https://github.com/user-attachments/assets/0c1fee02-3a53-4ada-9fea-3a73b4fef937)
+
+| Name                  | Type                | Original Release | Public Domain Status         | Notes                                                                 |
+|-----------------------|---------------------|------------------|------------------------------|-----------------------------------------------------------------------|
+| ALGOL                 | Language Spec       | 1958, 1960, 1968 | Yes (specification)         | Influenced C, Pascal; not widely used today                            |
+| FORTRAN (early)       | Language + Compiler | 1957             | Yes (early versions)        | Modern versions still copyrighted                                      |
+| LISP (early)          | Language            | 1958             | Yes (conceptually)          | Common Lisp implementations are open source, not public domain         |
+| B Language            | Language            | ~1969            | Yes (mostly public domain)  | Precursor to C                                                         |
+| Tiny BASIC            | Language + Interp.  | 1970s            | Yes                         | Many community and public domain versions                              |
+| Assembly (varies)     | Language            | 1940s–1980s      | Yes (by design)             | Instruction sets are not copyrightable                                 |
+| CP/M                  | Operating System    | 1974             | Yes (released by Caldera)   | Early OS used before MS-DOS                                            |
+| MS-DOS 1.0, 2.0       | Operating System    | 1981, 1983       | Partially (released for edu.) | Available via Computer History Museum                                |
+| Unix V1 (partial)     | Operating System    | 1971             | Partial (some public domain) | Some code released; most under permissive licenses now                |
+| TECO                  | Text Editor/Interp. | 1960s            | Yes (early versions)        | Macro-based editor, precursor to Emacs                                 |
+
+<br>
+
+This table highlights notable examples of programming languages and software that are in the public domain due to expired copyrights or deliberate release by their creators. It includes early languages like ALGOL, FORTRAN, and LISP, whose foundational concepts and initial implementations are now free to use without legal restrictions. Legacy systems such as CP/M and MS-DOS 1.0 and 2.0 have also been partially or fully released into the public domain, offering historical value and educational utility. Additionally, early tools like TECO and Tiny BASIC represent a class of software that contributed significantly to early computing and remain accessible for experimentation and preservation. Understanding which components are in the public domain enables developers, historians, and educators to explore and reuse foundational technologies without licensing concerns.
+
+#
+
 ![OS Developer](https://github.com/user-attachments/assets/a53f8643-1373-4502-b9a0-e004f6432bbc)
 
 [OS Developer](https://chatgpt.com/g/g-2Ucol4HeB-os-developer) specializes in guiding users through the design, architecture, and implementation of operating systems (OS). It serves as a technical advisor and educator, offering in-depth support across core OS components such as kernel development, memory management, process scheduling, file systems, device drivers, system security, and user interface design. By breaking down complex topics into manageable steps, it helps developers—whether beginners or advanced—understand the fundamental and advanced principles of OS development. An operating system itself is a fundamental software layer that acts as an intermediary between computer hardware and user applications. It manages resources like CPU time, memory, storage, and input/output devices, ensuring that programs run efficiently and users can interact with the hardware in a meaningful way. This GPT provides tailored, professional guidance based on best industry practices, helping users build robust and efficient systems, debug problems, optimize performance, and document their projects effectively.
