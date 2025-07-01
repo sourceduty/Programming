@@ -95,3 +95,5 @@ An AI terminal program is a type of software designed to operate within a termin
 [Science OS](https://chatgpt.com/g/g-682d22f294908191acbb92cd55a1acba-science-os)
 <br>
 [Terminal Dashboard](https://chatgpt.com/g/g-682a4bf6e7ac8191a6c8e72ba04151eb-terminal-dashboard)
+<br>
+[Python Terminal](https://chatgpt.com/g/g-68622501c2a481919d616d778df4c9ae-python-terminal)
