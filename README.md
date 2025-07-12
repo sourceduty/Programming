@@ -90,8 +90,10 @@ An AI terminal program is a type of software designed to operate within a termin
 A [LAN party](https://chatgpt.com/g/g-6871857521848191b050b1af44fdb82d-lan-party) is a social event where gamers gather in the same physical location to connect their computers, laptops, or gaming consoles to a Local Area Network (LAN), allowing them to play multiplayer games in real-time with minimal lag and maximum speed. Participants typically bring a variety of hardware to ensure an optimal gaming experience, including desktop PCs or laptops with high-performance specs, gaming monitors with fast refresh rates, and input devices like mechanical keyboards, mice, and controllers. The network infrastructure is crucial, with routers or switches connecting all the devices via Ethernet cables for a stable connection, as wireless networks may not provide the same level of reliability and low latency. Power is another consideration, as attendees need power strips, surge protectors, and possibly backup power sources like uninterruptible power supplies (UPS) to ensure their devices stay functional throughout the event.
 
 #
+![LAN Party Meme](https://github.com/user-attachments/assets/1ef7a35f-0999-41ce-8015-ca8aec3b1d9a)
 ![Code Geek](https://github.com/user-attachments/assets/d28de51f-dfa8-4633-83a7-9921709aca7b)
 #
+
 [Format Analyzer](https://chatgpt.com/g/g-ehM3x1ukS-format-analyzer)
 <br>
 [Programming Language Writer](https://chatgpt.com/g/g-sl0v3JhDZ-programming-language-writer)
